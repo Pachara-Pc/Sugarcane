@@ -6,7 +6,7 @@ import {getDatabase} from "firebase/database"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA4f_pX3ePtn-kHj0fiKwiciVYjh28xi5M",
+  apiKey: "-------",
   authDomain: "sugarcanearduino.firebaseapp.com",
   databaseURL: "https://sugarcanearduino-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "sugarcanearduino",
